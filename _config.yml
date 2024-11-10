@@ -22,11 +22,11 @@ repository               : "pijushpratim/pijushpratim.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Pijush Pratim Sarmah"
   pronouns         : # example: "she/her"  
   bio              : "Graduate Student"
   location         : "Burnaby, British Columbia"
-  employer         : "Red Brick University"
+  employer         : "Simon Fraser University"
   uri              : # URL
   email            : "pijush_sarmah@sfu.ca" 
 
