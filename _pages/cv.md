@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-[CV](https://pijushpratim.githu.io/files/Pijush CV.pdf)
+[CV](https://pijushpratim.github.io/files/cv.pdf)
