@@ -4,57 +4,18 @@ permalink: "/about/"
 layout: page
 ---
 
-## Installation
+## About Me
+I am a math PhD student at Simon Fraser University (SFU) working with [Katrina Honigs](https://www.sfu.ca/~khonigs/). I am broadly interested in Algebraic/Arithmetic Geometry. Before starting PhD, I completed MSc at SFU. My MSc thesis was on jaconians of curves coming from linear systems of polarizations in abelian surfaces. Prior to joining SFU, I completed MMath at Indian Statistical Institute Bangalore and BSc at Tezpur University.
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
 
-## Features
+## Publications and Preprints
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+ - MSc Thesis: [Jacobians of Curves in Abelian Surfaces.](https://summit.sfu.ca/item/38565)
+ - _On Some Localizations and Their Relation to Quotients_. With Nawal Hazarika. (American Mathematical Monthly, Vol. 131, 2024 Issue-4, pp 335-342.)
+ - _Evaluating Ramanujan's Nested Radicals: A Sequential Approach_. With Kuldeep Sarma. (Mathematics Magazine, Vol. 96, 2023 Issue-4, pp 463-466.)
 
-## Based on
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
 
-## Installation (jekyll-remote-theme method)
-
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
-
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
-
-plugins:
-  - jekyll-remote-theme
-```
-
-Note: to enable icons you also need to copy over the `_data` folder.
-
-## Config
-
-Your `_config.yml` could for example look like this:
-
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
 
 # Layout
 
