@@ -3,12 +3,4 @@ layout: default
 title: "Home"
 ---
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 Welcome to my webpage! 
