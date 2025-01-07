@@ -18,7 +18,8 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: Home}
   - {file: "README.md", title: About}
-
+  - {file: "pubs.md", title: Publications/Preprints}
+  - {file: "cv.pdf", title: CV}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:pps3@sfu.ca"}
   - {title: Github, icon: github, url: "https://pijushpratim.github.io"}
