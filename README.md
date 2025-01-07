@@ -1,5 +1,6 @@
 ---
-title: "Pijush Pratim Sarmah"
+title: "About"
+permalink: "/about/"
 layout: page
 ---
 
