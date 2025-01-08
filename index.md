@@ -6,7 +6,7 @@ title:
 
 
 <p align="center">
-  <img src=assets/prof_pic.png width="350">
+  <img src=assets/prof_pic.png width="250">
   
 
 
