@@ -1,14 +1,14 @@
 ---
 
 layout: page
-title: Home
+title: 
 ---
 
 
-I am a math PhD student at Simon Fraser University (SFU) working with [Katrina Honigs](https://www.sfu.ca/~khonigs/). I am broadly interested in Algebraic/Arithmetic Geometry. Before starting PhD, I completed MSc at SFU. My MSc thesis was on jaconians of curves coming from linear systems of polarizations in abelian surfaces. Prior to joining SFU, I completed MMath at Indian Statistical Institute Bangalore and BSc at Tezpur University.
+I am a math PhD student at Simon Fraser University (SFU) working with [Katrina Honigs](https://www.sfu.ca/~khonigs/). I am broadly interested in Algebraic/Arithmetic Geometry. Before starting PhD, I completed MSc at SFU. My MSc thesis was on Jacobians of curves coming from linear systems of polarizations in abelian surfaces. Prior to joining SFU, I completed MMath at Indian Statistical Institute Bangalore and BSc at Tezpur University.
 
 ## Email
-pijush_sarmah@sfu.ca 
+pijush_sarmah@sfu.ca \
 pijushpratim97@gmail.com
 
 ## [CV](https://drive.google.com/file/d/1l3wZg4P2YEvhucc0Rmuasv9MmIYZ6kAt/view)
