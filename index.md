@@ -7,7 +7,7 @@ title:
 
 <p align="center">
   <img src=assets/prof_pic.png width="250">
-  
+</p>
 
 
 I am a math PhD student at Simon Fraser University (SFU) working with [Katrina Honigs](https://www.sfu.ca/~khonigs/). I am broadly interested in Algebraic/Arithmetic Geometry. Before starting PhD, I completed MSc at SFU. My MSc thesis was on Jacobians of curves coming from linear systems of polarizations in abelian surfaces. Prior to joining SFU, I completed MMath at Indian Statistical Institute Bangalore and BSc at Tezpur University.
