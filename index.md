@@ -3,6 +3,16 @@
 layout: page
 title: 
 ---
+<style>
+img
+{
+    display:block;
+    float:none;
+    margin-left:auto;
+    margin-right:auto;
+    width:60%;
+}
+</style>
 <p align="center">
   <img src="https://github.com/pijushpratim/pijushpratim.github.io/blob/master/assets/prof_pic1.png?raw=true"/>
 </p>
