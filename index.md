@@ -6,7 +6,7 @@ title:
 
 
 <p align="center">
-  <img src=assets/prof_pic.png width="250">
+  <img src=https://github.com/pijushpratim/pijushpratim.github.io/blob/master/prof_pic.png width="250">
 </p>
 
 
