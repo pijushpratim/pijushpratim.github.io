@@ -3,18 +3,9 @@
 layout: page
 title: 
 ---
-<style>
-img
-{
-    display:block;
-    float:none;
-    margin-left:auto;
-    margin-right:auto;
-    width:60%;
-}
-</style>
+
 <p align="center">
-  <img src="https://github.com/pijushpratim/pijushpratim.github.io/blob/master/assets/prof_pic1.png?raw=true"/>
+  <img src="https://github.com/pijushpratim/pijushpratim.github.io/blob/master/assets/prof_pic1.png?raw=true" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
 </p>
 
 I am a math PhD student at Simon Fraser University (SFU) working with [Katrina Honigs](https://www.sfu.ca/~khonigs/). I am broadly interested in Algebraic/Arithmetic Geometry. Before starting PhD, I completed MSc at SFU. My MSc thesis was on Jacobians of curves coming from linear systems of polarizations in abelian surfaces. Prior to joining SFU, I completed MMath at Indian Statistical Institute Bangalore and BSc at Tezpur University.
