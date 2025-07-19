@@ -21,7 +21,7 @@ pijush_sarmah@sfu.ca \
 
 
 ## Publications and Preprints
-- _Involutions of Curves in Abelian Surfaces and Their Jacobians_. [arxiv](https://arxiv.org/abs/2504.06502)
+- \(joint with Katrina Honigs\) *Involutions of Curves in Abelian Surfaces and Their Jacobians*. [arxiv](https://arxiv.org/abs/2504.06502)
  - MSc Thesis: [Jacobians of Curves in Abelian Surfaces.](https://summit.sfu.ca/item/38565)
  - _On Some Localizations and Their Relation to Quotients_. With Nawal Hazarika. (**American Mathematical Monthly**, Vol. 131, 2024 Issue-4, pp 335-342.)
  - _Evaluating Ramanujan's Nested Radicals: A Sequential Approach_. With Kuldeep Sarma. (**Mathematics Magazine**, Vol. 96, 2023 Issue-4, pp 463-466.)
