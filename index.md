@@ -14,6 +14,8 @@ I am a math PhD student at Simon Fraser University (SFU) working with [Katrina H
 - Derived Equivalence of Varieties
 - Positivity of Vector Bundles
 - Curves in Abelian Varieties
+
+
 ## Email
 pijush_sarmah@sfu.ca 
 
