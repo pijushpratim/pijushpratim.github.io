@@ -11,7 +11,9 @@ title:
 I am a math PhD student at Simon Fraser University (SFU) working with [Katrina Honigs](https://www.sfu.ca/~khonigs/). I am broadly interested in Algebraic/Arithmetic Geometry. Before starting PhD, I completed MSc at SFU. Prior to joining SFU, I completed MMath at Indian Statistical Institute Bangalore and BSc at Tezpur University.
 
 ## Research Interests: 
-Derived Equivalence of Varieties; Positivity of Vector Bundles.
+- Derived Equivalence of Varieties
+- Positivity of Vector Bundles
+- Curves in Abelian Varieties
 ## Email
 pijush_sarmah@sfu.ca 
 
